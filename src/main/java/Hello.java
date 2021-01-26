@@ -6,7 +6,11 @@ public class Hello {
         //watching more movie in the living
         System.err.println("More action needed");
         System.out.println("This will definitely make conflict");
+        ////////
+        //movie on the phone 10 min
+        //movie on the phone 20 min
 
+        //final hour, another 10 min before going back to living room
 
         //ooo i like this movie
 
