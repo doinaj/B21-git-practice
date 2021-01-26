@@ -10,7 +10,7 @@ public class Hello {
         //movie on the phone 10 min
         //movie on the phone 20 min
 
-        //final hour, another 10 min before going back to living room
+        //final hour, another 10 min before going back to living room, i actually like it on the phone
 
         //ooo i like this movie
 
